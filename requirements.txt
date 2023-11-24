@@ -1,0 +1,6 @@
+pandas
+numpy
+datetime
+scikit-learn
+keras==2.3.1
+tensorflow==2.1
